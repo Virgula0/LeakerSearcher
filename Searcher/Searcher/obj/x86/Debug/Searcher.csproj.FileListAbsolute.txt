@@ -1,0 +1,10 @@
+/Users/angelorosa/Desktop/Searcher/Searcher/bin/Debug/Searcher.exe
+/Users/angelorosa/Desktop/Searcher/Searcher/bin/Debug/Searcher.pdb
+/Users/angelorosa/Desktop/Searcher/Searcher/obj/x86/Debug/Searcher.csproj.CoreCompileInputs.cache
+/Users/angelorosa/Desktop/Searcher/Searcher/obj/x86/Debug/Searcher.exe
+/Users/angelorosa/Desktop/Searcher/Searcher/obj/x86/Debug/Searcher.pdb
+C:\Users\Angelo\Desktop\Searcher\Searcher\bin\Debug\Searcher.exe
+C:\Users\Angelo\Desktop\Searcher\Searcher\bin\Debug\Searcher.pdb
+C:\Users\Angelo\Desktop\Searcher\Searcher\obj\x86\Debug\Searcher.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\Searcher\Searcher\obj\x86\Debug\Searcher.exe
+C:\Users\Angelo\Desktop\Searcher\Searcher\obj\x86\Debug\Searcher.pdb

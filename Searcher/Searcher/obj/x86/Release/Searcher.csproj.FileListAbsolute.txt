@@ -1,0 +1,3 @@
+C:\Users\Angelo\Desktop\Searcher\Searcher\bin\Release\Searcher.exe
+C:\Users\Angelo\Desktop\Searcher\Searcher\obj\x86\Release\Searcher.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\Searcher\Searcher\obj\x86\Release\Searcher.exe
