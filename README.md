@@ -103,8 +103,8 @@ This project is coded in c# so it's made for Windows but you can execute it also
  
  ![img](https://i.imgur.com/uKZkbtD.png)
  
- ## Versions
-Added in this version (0.2#Beta)
+ ## Versions (Current: 0.2#Beta)
+Added in this version :
 The program doesn't stop if string is found but continue search for other strings until it scans all files.
 All possible results are printed and are automatically exported to a local directory named 'Results' created at the moment of exportation.
 Various adjustaments to the source code.
