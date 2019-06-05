@@ -1,7 +1,7 @@
 # LeakerSearcher
 Quick and simple algorithm to search in local leaks very fast mode
 
-# This project is outdated, please switch to new release: https://github.com/Virgula0/LeakerSearcher2.0 . Cross-platform support for every operating system added and many other new importat features introduced
+# This project is outdated, please switch to new version: https://github.com/Virgula0/LeakerSearcher2.0 . Cross-platform support for every operating system added and many other new importat features introduced
 
 ```
                     (                             (                                    
