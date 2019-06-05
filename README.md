@@ -1,5 +1,8 @@
 # LeakerSearcher
 Quick and simple algorithm to search in local leaks very fast mode
+
+# This project is outdated, please switch to new release: https://github.com/Virgula0/LeakerSearcher2.0 . Cross-platform support for every operating system added and many other new importat features introduced
+
 ```
                     (                             (                                    
                     )\ )             )            )\ )                     )           
@@ -10,8 +13,6 @@ Quick and simple algorithm to search in local leaks very fast mode
                    | |__/ -_) _` | / // -_)| '_| \__ \/ -_) _` | '_/ _|| ' \/ -_)| '_| 
                    |____\___\__,_|_\_\\___||_|   |___/\___\__,_|_| \__||_||_\___||_|   
  ```
- 
-# This project is outdated, stay tuned for future updates. Cross-platform support for every operating system will be introduced with the next version of the software (Will be realeased in Java). Also, the next version will support parallel operations to speed up the search. https://github.com/Virgula0/LeakerSearcher2.0
 
 ## For what os is developed?
 This project is coded in c# so it's made for Windows but you can execute it also on Max Osx downloading Visual Studio for osx from microsoft here:  [Visual Studio](https://www.visualstudio.com/it/vs/visual-studio-mac/)
